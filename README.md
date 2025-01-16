@@ -38,12 +38,19 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo"  />
 </div>
 
+
 ###
 
 <img align="right" height="250" src="https://i.gifer.com/JXA0.gif"  />
 
 ###
 <br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://twitter.com/shreytalreja](https://x.com/Aayushmaanhooda)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushmaan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreytalreja25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreytalreja25" height="30" width="40" /></a>
+<a href="https://instagram.com/shreytalreja25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreytalreja25" height="30" width="40" /></a>
+</p>
 <h2 align="left">Glad to see you here!<br><br><br>👨🏼‍🎓 Studying Masters in IT at UNSW, Sydney <br>👨🏼‍💻 Currently Leetcoding</h2>
 
 ###

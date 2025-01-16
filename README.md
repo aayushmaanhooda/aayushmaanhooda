@@ -45,14 +45,14 @@
 
 ###
 <br>
+<h2 align="left">Glad to see you here!<br><br><br>👨🏼‍🎓 Studying Masters in IT at UNSW, Sydney <br>👨🏼‍💻 Currently Leetcoding</h2>
+<br>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://x.com/Aayushmaanhooda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushmaan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aayushmaan-hooda-68ab64194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushmaan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aajuicemaan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushmaan" height="30" width="40" /></a>
 </p>
-<br>
-<h2 align="left">Glad to see you here!<br><br><br>👨🏼‍🎓 Studying Masters in IT at UNSW, Sydney <br>👨🏼‍💻 Currently Leetcoding</h2>
 
 ###
 

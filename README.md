@@ -44,11 +44,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/JXA0.gif"  />
+<img align="right" height="250" src="https://i.gifer.com/JXA0.gif"  />
 
 ###
 
-<h2 align="left">Glad to see you here!<br><br><br>👨🏼‍🎓 Studying Masters in Information and Technology at UNSW, Sydney <br>👨🏼‍💻 Currently Leetcoding</h2>
+<h2 align="left">Glad to see you here!<br><br><br>👨🏼‍🎓 Studying Masters in IT at UNSW, Sydney <br>👨🏼‍💻 Currently Leetcoding</h2>
 
 ###
 

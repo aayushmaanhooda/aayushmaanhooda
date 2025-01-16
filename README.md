@@ -1,8 +1,10 @@
 <h1 align="center">Hello World,  I'm Aayushmaan Hooda 👋</h1>
+<h2 align="center">Crafted in Python and Sarcasm: Debugging Life One Line at a Time 👋</h2>
+
 
 ###
 
-<h1 align="left">💻 Tech  Stack:</h1>
+<h3 align="left">💻 Tech  Stack:</h3>
 
 ###
 

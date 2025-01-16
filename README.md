@@ -1,5 +1,5 @@
 <h1 align="center">Hello World,  I'm Aayushmaan Hooda 👋</h1>
-<h1 align="center">Crafted in Python and Sarcasm: Debugging Life One Line at a Time 👋</h1>
+<h2 align="center">Crafted in Python and Sarcasm: Debugging Life One Line at a Time 🐍</h2>
 
 
 ###

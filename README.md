@@ -1,4 +1,4 @@
-<h1 align="left">Hello World,  I'm Aayushmaan Hooda 👋</h1>
+<h1 align="center">Hello World,  I'm Aayushmaan Hooda 👋</h1>
 
 ###
 

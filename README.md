@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Glad to see you here!<br><br><br>👨🏼‍🎓 Studying Masters in Information and Technology at UNSW, Sydney<br>👨🏼‍💻 Currently Leetcoding</h2>
+<h2 align="left">Glad to see you here!<br><br><br>👨🏼‍🎓 Studying Masters in Information and Technology at UNSW, Sydney <br>👨🏼‍💻 Currently Leetcoding</h2>
 
 ###
 

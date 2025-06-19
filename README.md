@@ -50,7 +50,7 @@
 
 ###
 <br>
-<h2 align="left">Glad to see you here!<br><br><br>👨🏼‍🎓 Studying Masters in IT at UNSW, Sydney <br>👨🏼‍💻 Currently Leetcoding</h2>
+<h2 align="left">Glad to see you here!<br><br><br>👨🏼‍🎓 Studying Masters in IT at UNSW, Sydney </h2>
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">

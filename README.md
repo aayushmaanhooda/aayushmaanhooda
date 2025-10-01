@@ -63,16 +63,24 @@
 
 ### --> -->
 <!-- Level 3: Add custom code -->
+<!-- Header Section -->
+<h1 align="center">Hello World, I'm Aayushmaan Hooda 👋</h1>
+<h3 align="center">🚀 Aspiring GenAI Engineer | Python-First Backend Developer</h3>
 
-# 👋 Hi, I'm Aayushmaan!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+<!-- Fun Subheader -->
+<h4 align="center">⚡ Crafted in Python & Curiosity • Debugging life one line at a time 🫠</h4>
 
+<!-- About Me Section -->
+## 👨‍💻 About Me  
+- 🎓 Master’s in IT (UNSW)  
+- 🧠 On a journey into **Generative AI**
+- 🛠️ Building **AI Agents & Tools**  
+- 📊 Love combining **LLMs + Data**
+- 🌐 Tinkering with React, Tailwind, and Streamlit for quick UIs  
+
+<!-- Cool Statement -->
+<h2 align="center">💭 Building AI Agents • Automating Workflows • Exploring the Future</h2>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💻 Tech Stack

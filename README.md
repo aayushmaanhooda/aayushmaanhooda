@@ -46,7 +46,7 @@
 
 
 <!-- <img align="right" height="250" src="https://i.gifer.com/JXA0.gif"  /> -->
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
@@ -61,7 +61,7 @@
 <a href="https://www.instagram.com/aajuicemaan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushmaan" height="30" width="40" /></a>
 </p>
 
-### -->
+### --> -->
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Aayushmaan!
@@ -73,6 +73,7 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->

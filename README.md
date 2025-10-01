@@ -41,7 +41,9 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
   <img width="10" />
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src=""https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="jupyter logo"  />
+  <img width="10" />
+  
 </div>
 
 

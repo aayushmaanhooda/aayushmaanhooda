@@ -7,7 +7,8 @@
 - 🧠 On a journey into **Generative AI**
 - 🛠️ Building **AI Agents & Tools**  
 - 📊 Love combining **LLMs + Data**
-- 🌐 Tinkering with React, Tailwind, and Streamlit for quick UIs  
+- 🌐 Tinkering with React, Tailwind, and Streamlit for quick UIs
+- ✍️ Writing GenAI technical content on [Medium](https://medium.com/@aayushmaan_hooda)
 
 <!-- Cool Statement -->
 <br/>

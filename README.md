@@ -15,7 +15,7 @@
 <h2 align="center">💭 Automating Workflows • Exploring Human–AI Collaboration • Exploring the Future</h2>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
-<img align="right" alt="coding" width="400" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm0ydWVkZ2J0OGVuajdyZ3piMDc1cDNha2x0ZTA2dTgycmd6MjFmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif">
+<img align="right" alt="coding" width="400" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpbXgwem9vZTVpNXN0dDU5Z3V5ZXhwYWw2MGFhZ3NidHA1bjI4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 
 

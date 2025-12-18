@@ -1,10 +1,10 @@
 <h1 align="center">Hello World, I'm Aayushmaan Hooda 👋</h1>
-<h3 align="center">🚀 Aspiring GenAI Engineer | Python-First Backend Developer</h3>
+<h3 align="center">🚀 Aspiring AI Engineer | Python-First Backend Developer</h3>
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me  
 - 🎓 Master’s in IT (UNSW)  
-- 🧠 On a journey into **Generative AI**
+- 🧠 On a journey into **Agentic World**
 - 🛠️ Building **AI Agents & Tools**  
 - 📊 Love combining **LLMs + Data**
 - 🌐 Tinkering with React, Tailwind, and Streamlit for quick UIs

@@ -8,7 +8,7 @@
 - 🛠️ Building **AI Agents, Agentic Rags & Multi-Agent Systems**  
 - 📊 Love combining **LLMs + Data**
 - 🌐 Tinkering with React and Streamlit for quick UIs
-- ✍️ Writing GenAI technical content on [Medium](https://medium.com/@aayushmaan_hooda)
+- ✍️ Writing AI technical content on [Medium](https://medium.com/@aayushmaan_hooda)
 
 <!-- Cool Statement -->
 <br/>

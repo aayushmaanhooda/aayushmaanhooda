@@ -8,7 +8,7 @@
 - 🛠️ Building **AI Agents, Agentic Rags & Multi-Agent Systems**  
 - 📊 Love combining **LLMs + Data**
 - 🌐 Tinkering with React and Streamlit for quick UIs
-- ✍️ Writing AI technical content on [Medium](https://medium.com/@aayushmaan_hooda)
+- ✍️ Writing technical content on [Medium](https://medium.com/@aayushmaan_hooda)
 - 📄 A snapshot of my work and journey [resume.pdf](https://github.com/user-attachments/files/24782257/resume.pdf)
 
 

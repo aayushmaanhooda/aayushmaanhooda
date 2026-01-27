@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me  
 - 🎓 Master’s in IT (UNSW)  
 - 🧠 On a journey into **Agentic World**
-- 🛠️ Building **AI Agents, Agentic Rags, Multi-Agent Systems & backend systems**  
+- 🛠️ Building **AI Agents, Agentic Rags, Multi-Agent systems & backend systems**  
 - 📊 Love combining **LLMs + Data**
 - 🌐 Tinkering with React and Streamlit for quick UIs
 - ✍️ Writing technical content on [Medium](https://medium.com/@aayushmaan_hooda)

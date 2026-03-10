@@ -9,7 +9,7 @@
 - 📊 Love combining **LLMs + Data**
 - 🌐 Tinkering with React and Streamlit for quick UIs
 - ✍️ Writing technical content on [Medium](https://medium.com/@aayushmaan_hooda)
-- 🤖 Talk to my bot version to know more about me [AayushBot](https://aayushmaan-bot.vercel.app/)
+- 🤖 Chat or Talk to my bot version to know more about me [AayushBot](https://aayushmaan-bot.vercel.app/)
 <!-- Cool Statement -->
 <br/>
 <h2 align="center">Exploring Human–AI Collaboration • Exploring the Future</h2>

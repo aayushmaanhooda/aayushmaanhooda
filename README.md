@@ -1,16 +1,15 @@
 <h1 align="center">Hello Worldsss, I'm Aayushmaan Hooda 👋</h1>
 <h3 align="center">🚀 Aspiring AI Engineer | Python-First Backend Developer</h3>
 
-<!-- About Me Section -->
 ## 👨‍💻 About Me  
-- 🎓 Master’s in IT (UNSW)  
+- 🎓 Master's in IT (UNSW)  
 - 🧠 On a journey into **Agentic World**
 - 🛠️ Building **AI Agents, Agentic Rags, Multi-Agent systems & Backend systems**  
 - 📊 Love combining **LLMs + Data**
 - 🌐 Tinkering with React and Streamlit for quick UIs
 - ✍️ Writing technical content on [Medium](https://medium.com/@aayushmaan_hooda)
 - 🤖 Chat or Talk to my bot version to know more about me [AayushBot](https://aayushmaan-bot.vercel.app/)
-<!-- Cool Statement -->
+
 <br/>
 
 ## 🌱 Open Source
@@ -27,14 +26,8 @@
 
 <img align="right" alt="coding" width="400" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpbXgwem9vZTVpNXN0dDU5Z3V5ZXhwYWw2MGFhZ3NidHA1bjI4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
-<br clear="right"/>
-
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
-
 ## 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -57,4 +50,4 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-
+<br clear="right"/>

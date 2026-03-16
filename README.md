@@ -16,7 +16,7 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🌾 **[FastAPI-Seed](https://github.com/aayushmaan-hooda/fastapi-seed)** | A production-ready FastAPI project template with best practices baked in | `FastAPI` `Python` `Docker` | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| 🌾 **[FastAPI-Seed](https://github.com/aayushmaanhooda/fastapi-seed)** | A production-ready FastAPI project template with best practices baked in | `FastAPI` `Python` `Docker` | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
 
 </div>
 

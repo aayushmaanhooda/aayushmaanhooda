@@ -12,7 +12,6 @@
 
 ## 🚀 Projects
 
-- 💰 **[OnlyFinance](https://github.com/unsw-cse-comp99-3900/capstone-project-25t2-9900-w18b-almond)** — Crypto analytics platform combining sentiment analysis with price forecasting. UNSW capstone.
 - 🤖 **[aayushmaanBot](https://github.com/aayushmaanhooda/aayushmaanBot)** — Personal Portfolio chatbot with RAG + voice. Chat or talk to my AI twin.
 - 📝 **[PitchCraftAgent](https://github.com/aayushmaanhooda/PitchCraftAgent)** — Agentic pipeline that turns briefs into structured pitch decks.
 - 🌊 **[TideAgent](https://github.com/aayushmaanhooda/TideAgent)** — Few-shot computer vision annotation using DINOv2 + pgvector + Claude Vision.

@@ -18,7 +18,7 @@
 - 🌊 **[TideAgent](https://github.com/aayushmaanhooda/TideAgent)** — Few-shot computer vision annotation using DINOv2 + pgvector + Claude Vision.
 - 🚀 **[SpaceForge](https://github.com/aayushmaanhooda/SpaceForge)** — Text-to-3D generation pipeline running on Modal GPUs.
 - 📑 **[RFPilot](https://github.com/aayushmaanhooda/RFPilot)** — RFP-to-deliverables pipeline generating PPTX + XLSX outputs.
-- 🎨 **[Avero](https://github.com/aayushmaanhooda/avero)** — Website redesign project — modern UI/UX rebuild.
+- 🎨 **[Avreo](https://github.com/aayushmaanhooda/avero)** — Website redesign project — modern UI/UX rebuild.
 - 📧 **[Northwind Triage Agent](https://github.com/aayushmaanhooda/Northwind-Triage-Agent)** — Single agent that auto-replies to customer email queries over the Northwind dataset.
 - 🌾 **[FastAPI-Seed](https://github.com/aayushmaanhooda/fastapi-seed)** — Production-ready FastAPI project template with best practices baked in.
 </br>

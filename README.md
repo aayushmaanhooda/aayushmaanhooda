@@ -10,17 +10,54 @@
 - ✍️ Writing technical content on [Medium](https://medium.com/@aayushmaan_hooda)
 - 🤖 Chat or Talk to my bot version to know more about me [AayushBot](https://aayushmaan-bot.vercel.app/)
 
-## 🌱 Open Source
+## 🚀 Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| 🌾 **[FastAPI-Seed](https://github.com/aayushmaanhooda/fastapi-seed)** | A production-ready and hobby-ready FastAPI project template with best practices baked in | `FastAPI` `Python` `Typer` `Jinja` |![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+### 💰 [OnlyFinance](https://github.com/aayushmaanhooda/OnlyFinance)
+Crypto analytics platform combining sentiment analysis with price forecasting. Capstone project at UNSW.
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-> 💡 *Building in public - contributions, issues, and stars are always welcome!*
+### 🤖 [aayushmaanBot](https://github.com/aayushmaanhooda/aayushmaanBot)
+Portfolio chatbot with RAG + voice. Chat or talk to my AI twin to learn about me.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [PitchCraftAgent](https://github.com/aayushmaanhooda/PitchCraftAgent)
+An agentic pipeline that turns briefs into structured pitch decks using Pydantic schemas.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 [TideAgent](https://github.com/aayushmaanhooda/TideAgent)
+A few-shot computer vision annotation tool using DINOv2 + pgvector + Claude Vision.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [SpaceForge](https://github.com/aayushmaanhooda/SpaceForge)
+Text-to-3D generation pipeline running on Modal GPUs.
+
+</td>
+<td width="50%" valign="top">
+
+### 📑 [RFPilot](https://github.com/aayushmaanhooda/RFPilot)
+RFP-to-deliverables pipeline that generates PPTX + XLSX outputs from RFP documents.
+
+</td>
+</tr>
+</table>
 </br>
 
 <img align="right" alt="coding" width="400" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpbXgwem9vZTVpNXN0dDU5Z3V5ZXhwYWw2MGFhZ3NidHA1bjI4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">

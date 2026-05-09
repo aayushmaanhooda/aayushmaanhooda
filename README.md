@@ -13,10 +13,9 @@
 ## 🚀 Projects
 
 - 🤖 **[aayushmaanBot](https://github.com/aayushmaanhooda/aayushmaanBot)** — Personal Portfolio chatbot with RAG + voice. Chat or talk to my AI twin.
-- 📝 **[PitchCraftAgent](https://github.com/aayushmaanhooda/PitchCraftAgent)** — Agentic pipeline that turns briefs into structured pitch decks.
+- 📝 **[PitchCraftAgent](https://github.com/aayushmaanhooda/PitchCraftAgent)** — RFP-to-deliverables pipeline generating PPTX + XLSX outputs.
 - 🌊 **[TideAgent](https://github.com/aayushmaanhooda/TideAgent)** — Few-shot computer vision annotation using DINOv2 + pgvector + Claude Vision.
 - 🚀 **[SpaceForge](https://github.com/aayushmaanhooda/SpaceForge)** — Text-to-3D generation pipeline running on Modal GPUs.
-- 📑 **[RFPilot](https://github.com/aayushmaanhooda/RFPilot)** — RFP-to-deliverables pipeline generating PPTX + XLSX outputs.
 - 🎨 **[Avreo](https://github.com/aayushmaanhooda/avero)** — Website redesign project — modern UI/UX rebuild.
 - 📧 **[Northwind Triage Agent](https://github.com/aayushmaanhooda/Northwind-Triage-Agent)** — Single agent that auto-replies to customer email queries over the Northwind dataset.
 - 🌾 **[FastAPI-Seed](https://github.com/aayushmaanhooda/fastapi-seed)** — Production-ready FastAPI project template with best practices baked in.

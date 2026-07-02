@@ -10,17 +10,6 @@
 - ✍️ Writing technical content on [Medium](https://medium.com/@aayushmaan_hooda)
 - 🤖 Chat or Talk to my bot version to know more about me [AayushBot](https://aayushmaan-bot.vercel.app/)
 
-## 🚀 Projects
-
-- 🤖 **[aayushmaanBot](https://github.com/aayushmaanhooda/aayushmaanBot)** — Personal Portfolio chatbot with RAG + voice. Chat or talk to my AI twin.
-- 📝 **[PitchCraftAgent](https://github.com/aayushmaanhooda/PitchCraftAgent)** — RFP-to-deliverables pipeline generating PPTX + XLSX outputs.
-- 🌊 **[TideAgent](https://github.com/aayushmaanhooda/TideAgent)** — Few-shot computer vision annotation using DINOv2 + pgvector + Claude Vision.
-- 🚀 **[SpaceForge](https://github.com/aayushmaanhooda/SpaceForge)** — Text-to-3D generation pipeline running on Modal GPUs.
-- 🎨 **[Avreo](https://github.com/aayushmaanhooda/avero)** — Website redesign project — modern UI/UX rebuild.
-- 📧 **[Northwind Triage Agent](https://github.com/aayushmaanhooda/Northwind-Triage-Agent)** — Single agent that auto-replies to customer email queries over the Northwind dataset.
-- 🌾 **[FastAPI-Seed](https://github.com/aayushmaanhooda/fastapi-seed)** — Production-ready FastAPI project template with best practices baked in.
-</br>
-
 <img align="right" alt="coding" width="400" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpbXgwem9vZTVpNXN0dDU5Z3V5ZXhwYWw2MGFhZ3NidHA1bjI4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 ## 💻 Tech Stack
